@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442410128721",
+    "project_id": "perfectgift-f2f84",
+    "storage_bucket": "perfectgift-f2f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442410128721:android:9ba947c6a65c796f43af70",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442410128721-4pa3ed2eg8s0q1pbf4cf8trskmj661qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaeK8vj_mSxq-7fDHt3d9SPYqZqJdDi3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442410128721-4pa3ed2eg8s0q1pbf4cf8trskmj661qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
