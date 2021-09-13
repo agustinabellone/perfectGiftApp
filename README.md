@@ -15,4 +15,8 @@ Perfect Gift es una aplicación que ayuda a elegir el regalo perfecto para tus a
 * [Links de interés/referencia](./doc/references.md)
 * [Errores conocidos](./doc/knowIssues.md)
 
+## Video
+
+https://drive.google.com/file/d/1sGYdFSt1-uqq_4gPO77H9XG-IrZ4wY96/view?usp=sharing
+
 <img src="https://raw.githubusercontent.com/agustinabellone/perfectGiftApp/develop/portada.png" alt=""/>
